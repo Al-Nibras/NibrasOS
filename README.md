@@ -25,7 +25,7 @@ TO BE STABLIZED:
 * fork() syscall
 * Kheap Manager
 * Overall Structure (Higher-Half Kernel VM)
-* Scheduling Algorithm: very basic RR used, the official algorithm used in NibrasOS is not within the source code, it is a new Scheduling Alg. that would be released once its scientific paper gets published
+* Scheduling Algorithm: very basic RR is currently in use, the official algorithm used in NibrasOS is not within the source code, it is a new Scheduling Alg. that would be released once its scientific paper gets published
 
 TO BE OPTIMIZED:
 * Multiprocessing synchronization
