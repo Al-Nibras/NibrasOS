@@ -3,6 +3,16 @@ Operating System Micro Kernel designed for IA-32 Arch.
 
 If you're not familiar with Kernel Development, please close this page and stop wasting your time!
 
+Requirements (Host-Machine):
+- i386 Arch. (or x86_64)
+- RAM >= 4GiB
+- GNU-GCC-i386 cross-compiler
+- PS/2 (optional)
+- VHD (if running under VM)
+
+
+feel free to contribute (please refer to 'TO BEs’ in README.md)
+
 TO BE FIXED:
 * Process VAS creation
 * TSS data gets lost when executing fork() or sys_fork()
@@ -19,6 +29,7 @@ TO BE ADDED:
 * Floating-point (SSE*)
 * VM mmap
 * VM86
+* Long Mode support
 
 TO BE STABLIZED:
 * Process VAS security
