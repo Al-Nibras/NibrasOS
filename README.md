@@ -11,7 +11,7 @@ Requirements (Host-Machine):
 - VHD (if running under VM)
 
 
-feel free to contribute (please refer to 'TO BEs’ in README.md)
+feel free to contribute (please refer to 'TO BEs’)
 
 TO BE FIXED:
 * Process VAS creation
