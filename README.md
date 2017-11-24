@@ -1,7 +1,7 @@
 # NibrasOS
 Operating System Micro Kernel designed for IA-32 Arch.
 
-If you're not familiar with Kernel Development, please close the page and stop wasting your time!
+If you're not familiar with Kernel Development, please close this page and stop wasting your time!
 
 TO BE FIXED:
 * Process VAS creation
