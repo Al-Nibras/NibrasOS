@@ -1,5 +1,5 @@
 # NibrasOS
-Operating System Micro Kernel designed for IA-32 Arch.
+Operating System Micro Kernel designed for to extend Linux on IA-32 Arch.
 
 If you're not familiar with Kernel Development, please close this page and stop wasting your time!
 
